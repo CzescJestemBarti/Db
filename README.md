@@ -8,3 +8,6 @@ Jest to relacyjna baza danych zawierająca informację o:
   <li>Sponsorach</li>
   <li>oraz inne...</li>
   </ol>
+
+<strong>https://www.github.com/s18967/APBD</strong> <- repozytorium to natomiast zawiera informacje o różnych użytecznościach języka C# <br>
+takich jak wyciaganie informacji z bazy danych, a nastepnie operowanie na nich w jezyku Java, enkryptowanie hasel oraz inne.
